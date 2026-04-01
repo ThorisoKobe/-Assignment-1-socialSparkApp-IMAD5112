@@ -9,7 +9,7 @@
 - **Subject**: IMAD5112
 
 ## Links
-- **GitHub Repository**:
+- **GitHub Repository**: https://github.com/ThorisoKobe/-Assignment-1-socialSparkApp-IMAD5112/tree/main
 - **YouTube Video**: 
 
 ## Project Overview
