@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ACD5F0"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <!-- Title -->
+
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/amatica_sc_bold"
+        android:paddingBottom="24dp"
+        android:text="SOCIAL SPARK"
+        android:textColor="#222222"
+        android:textSize="55sp"
+        android:textStyle="bold" />
+
+    <!-- Input Field -->
+    <EditText
+        android:id="@+id/timeInput"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@android:drawable/edit_text"
+        android:hint="Enter time (Morning, Afternoon...)"
+        android:padding="14dp"
+        android:textSize="27sp" />
+
+    <!-- Suggest Button -->
+    <Button
+        android:id="@+id/btnSuggest"
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:layout_marginBottom="15dp"
+        android:backgroundTint="#436099"
+        android:fontFamily="@font/actor"
+        android:text="Get Suggestion"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="27sp"
+        android:textStyle="bold" />
+
+    <!-- Reset Button -->
+
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="#952626"
+        android:fontFamily="@font/actor"
+        android:text="Reset"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="27sp"
+        android:textStyle="bold" />
+
+    <!-- Result Card -->
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#FFFFFF"
+        android:elevation="4dp"
+        android:padding="16dp"
+        android:text="Suggestion appears here"
+        android:textColor="#333333"
+        android:textSize="23sp" />
+
+</LinearLayout>
