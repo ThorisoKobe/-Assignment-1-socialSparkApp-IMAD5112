@@ -10,11 +10,11 @@
 
 ## Links
 - **GitHub Repository**: https://github.com/ThorisoKobe/-Assignment-1-socialSparkApp-IMAD5112/tree/main
-- **YouTube Video**: 
+- **YouTube Video**: https://youtu.be/Fxy-9A2gSkY?si=8Bp-ugUgw5GqDpio
 
 ## Project Overview
 
-The socialSparkApp is a mobile application developed as part of an assignment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to                        .
+The socialSparkApp is a mobile application developed as part of an assignment in the IMAD5112 subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to Suggest what to do at a specific time (user given).                      .
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 
@@ -80,7 +80,7 @@ The workflow ensures that my project is automatically built and tested every tim
 *Figure 1.2: showing that the app is responsive.
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: 
+A video showcasing the app's functionality can be viewed here: https://youtu.be/Fxy-9A2gSkY?si=8Bp-ugUgw5GqDpio
 ---
 
 7. Challenges and Learnings
