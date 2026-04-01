@@ -74,9 +74,10 @@ The workflow ensures that my project is automatically built and tested every tim
 ## Screenshots
 
 ### App Screenshots:
-![figure 1:]
-*Figure 1.1:
-![figure 2]
+![figure 1:] <img width="509" height="868" alt="home screen" src="https://github.com/user-attachments/assets/c5035c38-16e1-438e-bee6-f413fbf2e361" />
+*Figure 1.1: showing UI of the app
+![figure 2] <img width="505" height="868" alt="Screenshot 2026-04-01 185720" src="https://github.com/user-attachments/assets/29a21a7b-647c-44ad-b1ba-2905be5bb2d5" />
+*Figure 1.2: showing that the app is responsive.
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: 
@@ -121,7 +122,16 @@ These enhancements would improve the app’s usability and make it even more ver
 9. References
 -------------
 ## References
+1.GitHub, 2026. GitHub Docs: Creating a Repository, GitHub. Available at: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-repository[Accessed: 1 April 2026].
 
+2.W3Schools, 2026. HTML Button Tag, W3Schools. Available at: https://www.w3schools.com/tags/tag_button.asp
+ [Accessed: 28 March 2026].
+ 
+3.MDN Web Docs, 2026. HTML Form Elements, Mozilla Developer Network (MDN). Available at: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
+ [Accessed: 30 March 2026].
+ 
+4.Bootstrap, 2026. Bootstrap Documentation: Buttons, Bootstrap. Available at: https://getbootstrap.com/docs/5.1/components/buttons/
+ [Accessed: 28 March 2026].
 
 ---
 
@@ -129,5 +139,5 @@ These enhancements would improve the app’s usability and make it even more ver
 -------------------
 ## List of Figures
 
-- **Figure 1**: Screenshot of the app's home screen.
+- **Figure 1**: Screenshot of the app's UI home screen.
 - **Figure 2**: Screenshot of the user profile screen.
